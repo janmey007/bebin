@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class soham {
+public class invention {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in)
 
