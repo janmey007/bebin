@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class soham {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(system.in)
+        Scanner sc = new Scanner(System.in)
 
 
         String a = sc.nextLine();
